@@ -1,0 +1,64 @@
+.container
+{
+	display: flex;
+	margin-top: 20px;
+}
+.container-1
+{
+	flex: 1;
+	height: 420px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.container-2
+{
+	flex: 1;
+}
+label
+{
+	margin-right: 5px;
+}
+button
+{
+	height: 30px;
+	margin-right: 10px;
+	width: 90px;
+}
+.tdd
+{
+	padding-bottom: 10px;
+}
+hr
+{
+	border:none;
+  	border-bottom: 1px solid;
+ 	height:1px;
+  	width:98%;
+}
+input
+{
+	border: 0.5px solid black;
+	width: 45%;
+	height: 20px;
+}
+h3
+{
+	margin: 0;
+}
+#msg
+{
+    margin-left: 40px;
+}
+
+.data:nth-child(odd)
+{
+	background-color: #e6e6e6;
+}
+.data
+{
+	height: 50px;
+}
+#adminList
+{
+	border-collapse: collapse;
+}

@@ -1,0 +1,61 @@
+#form{
+    top: 50%;
+    margin: auto;
+    width: 300px;
+    margin: auto;
+    padding: 20px 35px 20px 30px;
+}
+.label{
+    font-weight: bold;
+}
+ 
+.card
+{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -190px;
+    margin-left: -210px;
+}
+input
+{
+    margin-top: 3px;
+    padding-left: 30px;
+    width: 92%;
+    height: 25px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+button
+{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.icon
+{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.x-icon
+{
+    padding-top: 10px;
+    visibility: hidden;
+    right: 10px;
+    padding-right: 30px;
+    color: red;
+}
+.c-icon
+{
+    padding-top: 10px;
+    visibility: hidden;
+    right: 10px;
+    padding-right: 30px;
+    color: green;
+}
+.msg
+{
+    margin-bottom: 10px;
+}

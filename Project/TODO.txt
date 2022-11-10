@@ -1,0 +1,35 @@
+glVertex2i(bx1, by1);
+    glVertex2i(bx1+10, by1+20);
+    glVertex2i(bx1+5, by1+40);
+    glVertex2i(bx1+13, by1+60);
+    glVertex2i(bx1-5, by1+45);
+    glVertex2i(bx1-10, by1+25);
+    glVertex2i(bx1-7, by1);
+    glVertex2i(bx1, by1);
+
+    glVertex2i(bx1, by1);
+    glVertex2i(bx1+25, by1);
+    glVertex2i(bx1+28, by1-17);
+    glVertex2i(bx1+25, by1-30);
+    glVertex2i(bx1+20, by1-17);
+    glVertex2i(bx1+10, by1-17);
+    glVertex2i(bx1, by1-25);
+    glVertex2i(bx1, by1);
+
+    glVertex2i(bx1, by1);
+    glVertex2i(bx1-17, by1);
+    glVertex2i(bx1-22, by1-13);
+    glVertex2i(bx1-25, by1-28);
+    glVertex2i(bx1-18, by1-35);
+    glVertex2i(bx1, by1-25);
+    glVertex2i(bx1, by1);
+
+    glVertex2i(bx1-22, by1-13);
+    glVertex2i(bx1-25, by1-28);
+    glVertex2i(bx1-35, by1);
+    glVertex2i(bx1-42, by1+3);
+    glVertex2i(bx1-45, by1+13);
+    glVertex2i(bx1-52, by1+15);
+    glVertex2i(bx1-56, by1+25);
+    glVertex2i(bx1-62, by1+35);
+    glVertex2i(bx1-12, by1);

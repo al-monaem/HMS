@@ -1,0 +1,63 @@
+body
+{
+	background-color: #f1f5f8;
+}
+
+.card
+{
+	background-color: #fff;
+	border-radius: 1rem;
+	box-shadow: 5px 5px 20px rgba(0,0,0,0.2);
+}
+
+.header
+{
+    background-color: #7db8b6 !important;
+    border-radius: 10px;
+}
+
+input
+{
+	border-radius: 0.4rem;
+	font-family: Georgia;
+	padding-left: 10px;
+}
+button
+{
+    font-family: Georgia;
+    border-radius: 0.4rem;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    background-color: #619190;
+    border: none;
+    color: white;
+    opacity: 1;
+    transition: 0.3s;
+    transition-duration: 0.4s;
+}
+button:hover
+{
+    cursor: pointer;
+    opacity: 0.8;
+}
+.icon
+{
+    position: absolute;
+}
+.x-icon
+{
+    position: absolute;
+}
+.c-icon
+{
+    position: absolute;
+}
+.error
+{
+    color: red;
+}
+.success
+{
+    color: green;
+}

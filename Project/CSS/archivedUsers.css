@@ -1,0 +1,36 @@
+.search
+{
+	margin: none;
+	text-align: center;
+}
+#search
+{
+	margin-left: 10px;
+}
+#container
+{
+	margin: 20px;
+	height: 600px;
+	overflow-y: scroll;
+}
+#records
+{
+	border-collapse: collapse;
+	width: 100%;
+}
+tr
+{
+	height: 50px;
+}
+th
+{
+	width: 18%;
+}
+td
+{
+	text-align: center;
+}
+.data:nth-child(odd)
+{
+	background-color: #e6e6e6;
+}
